@@ -1,7 +1,2 @@
-User-agent: Googlebot
-User-agent: Googlebot-Image
-User-agent: Googlebot-News
-Disallow: /
-
 User-agent: *
-Disallow: 
+Disallow: /
